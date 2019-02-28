@@ -1,0 +1,19 @@
+[
+  {
+    "className": "Vika",
+    "dependencies": []
+  },
+  {
+  "className": "Baka",
+  "dependencies": [
+    "Vika"
+    ]
+  },
+  {
+  "className": "Buka",
+  "dependencies": [
+    "Vika",
+    "Baka"
+    ]
+  }
+]
